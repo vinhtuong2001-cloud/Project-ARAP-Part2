@@ -1,0 +1,3 @@
+model.py        # define CNN layers
+train.py        # training script
+utils.py        # helper functions
