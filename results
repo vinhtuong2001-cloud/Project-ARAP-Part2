@@ -1,0 +1,2 @@
+predictions/    # example prediction images
+accuracy.txt    # training accuracy log
